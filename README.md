@@ -6,7 +6,7 @@ urlcolor: blue
 link-citations: yes
 ---
 
-Information for Mission Gorge Climbers Associated with the Mission Gorge Super
+Information for Mission Gorge climbers associated with the Mission Gorge Super
 Group (MGSG).
 
 ![Mission Gorge](mg.jpg)
