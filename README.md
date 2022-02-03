@@ -33,6 +33,8 @@ Group (MGSG).
    (5.11d)](https://www.mountainproject.com/route/107428815/obverse-from-the-gap)
 9. [Never Intended
    (5.10c)](https://www.mountainproject.com/route/105908560/never-intended)
+10. [Lord of the Rings
+    (5.10c)](https://www.mountainproject.com/route/105794217/lord-of-the-rings)
 
 # Local Legends
 
@@ -57,7 +59,7 @@ Group (MGSG).
 * Description: A young family of good-looking climbers. The Father seldom wears
   a shirt and is an absolute crusher.
 * Known for: Sending hard routes and looking good doing it. Speaking with an
-  "Austrian" accent. Yelling at plastic monkeys for top roping on the rappel
+  "Austrian" accent (we don't actually know what accent they have). Yelling at plastic monkeys for top roping on the rappel
   links.
 * Last seen: Unknown
 
