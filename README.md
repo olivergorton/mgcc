@@ -1,5 +1,5 @@
 ---
-title: Mission Gorge Super Group
+title: Mission Gorge Climbing Club
 numbersections: False
 linkcolor: blue
 urlcolor: blue
