@@ -36,6 +36,11 @@ Group (MGSG).
 10. [Lord of the Rings
     (5.10c)](https://www.mountainproject.com/route/105794217/lord-of-the-rings)
 
+# Songs, lol
+## "Glutes and Abs" Poem
+
+## "Drunken Belayer" Song
+
 # Local Legends
 
 "Derek"
@@ -52,6 +57,12 @@ Group (MGSG).
 * Description: 
 * Known for: Free soloing
 * Last seen: Free soloing the crack left of Khazad-Dum
+
+"The Bear Hunter"
+* Name: Unknown
+* Description: Seen carrying a tube full of sand, to simulate the weight and shape of a hunting rifle. Claims
+* Known for: Carrying a tube full of sand
+* Last seen: Unknown
 
 "S\*xy Austrians"
 
